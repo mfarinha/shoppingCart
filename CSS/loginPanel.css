@@ -10,7 +10,7 @@ and open the template in the editor.
 
 form {
     border: 3px solid #f1f1f1;
-    margin: 50px 300px 0px 300px;
+    margin: 50px 300px 0px 300px; /*        TOP px, LEFT px, BOTTOM px, RIGHT px            */
 }
 
 input[type=text], input[type=password] {
